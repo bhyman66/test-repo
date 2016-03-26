@@ -1,2 +1,2 @@
-# test-repo
-Test repository for Data Science Class
+## test-repo
+Homework for Data Science Class
